@@ -1,4 +1,4 @@
-A machine learning investigation into pneumonia detection, completed as university coursework. This project evaluates multiple traditional ML models on a pneumonia dataset, including:
+A machine learning investigation into pneumonia detection, completed as university coursework. This project evaluates multiple traditional machine learning models on a pneumonia dataset, including:
 
 - Decision Trees & Random Forest
 - K-Nearest Neighbours (KNN)
